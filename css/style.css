@@ -1,0 +1,40 @@
+body {
+    background-color: khaki;
+}
+div.card {
+    text-align: center;
+    font-family: inherit;
+    border: 5px solid #ffffff;
+    margin: 2px auto;
+    padding: 40px;
+}
+svg {
+    margin: 0px auto;
+}
+div.container.mt-3 {
+    padding: 10px;
+}
+a.btn.btn-dark {
+    margin: 2px;
+    color: #DCDCDC;
+}
+h4 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div.footer {
+    padding: 40px;
+    text-align: center;
+    color: black;
+    font-family: fantasy;
+}
+button.btn.btn-cv {
+    background-color: cornflowerblue;
+    color: rgb(255, 255, 255);
+}
+button.btn.btn-cv:hover {
+    border-color: chartreuse;
+}
+p.text-muted {
+    border-bottom: 2px solid tomato;
+}
